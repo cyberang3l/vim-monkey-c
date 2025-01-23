@@ -1,10 +1,5 @@
 # vim-monkey-c
 
-Fork of https://github.com/keithluchtel/vim-monkey-c with more advanced highlighting features:
+Fork of https://github.com/klimeryk/vim-monkey-c, which is a fork of https://github.com/keithluchtel/vim-monkey-c
 
-* Strings, characters
-* Numbers (ints, floats, longs)
-* `using` statements
-* Some constants (like `FONT_*` or `COLOR_*`)
-* Operators
-* More to come!
+Adding many more highlighting features

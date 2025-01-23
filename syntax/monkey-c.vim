@@ -8,10 +8,10 @@ syntax keyword  monkeyCConsts        false true null
 syntax keyword  monkeyCConditional   if else
 syntax match    monkeyCInclude       "Toybox.\S\+"
 syntax keyword  monkeyCKeyword       import using as extends
-syntax keyword  monkeyCStatement     new return continue hidden break case default
+syntax keyword  monkeyCStatement     new return continue hidden break case default protected public instanceof
 syntax keyword  monkeyCStorageClass  var const static enum
 syntax keyword  monkeyCFunction      function
-syntax keyword  monkeyCStructure     class
+syntax keyword  monkeyCStructure     class module
 syntax keyword  monkeyCRepeat        for while do switch
 syntax keyword  monkeyCExceptions    throw try catch
 
